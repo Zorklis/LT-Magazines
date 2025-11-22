@@ -39,13 +39,8 @@ https://www.savaite.lt/docs/s148.pdf
 https://www.savaite.lt/docs/s149.pdf
 https://www.savaite.lt/docs/s150.pdf
 https://www.savaite.lt/docs/s151.pdf
-https://www.savaite.lt/docs/s152.pdf
 
-https://www.savaite.lt/docs/s501.pdf
-https://www.savaite.lt/docs/s502.pdf
-https://www.savaite.lt/docs/s503.pdf
-https://www.savaite.lt/docs/s504.pdf
-https://www.savaite.lt/docs/s505.pdf
+https://www.savaite.lt/docs/s152.pdf
 
 https://www.savaite.lt/docs/s1101.pdf
 https://www.savaite.lt/docs/s1102.pdf
@@ -206,6 +201,7 @@ https://www.savaite.lt/docs/s1350.pdf
 https://www.savaite.lt/docs/s1351.pdf
 https://www.savaite.lt/docs/s1352.pdf
 
+
 https://www.savaite.lt/docs/s1401.pdf
 https://www.savaite.lt/docs/s1402.pdf
 https://www.savaite.lt/docs/s1403.pdf
@@ -259,10 +255,16 @@ https://www.savaite.lt/docs/s1450.pdf
 https://www.savaite.lt/docs/s1451.pdf
 https://www.savaite.lt/docs/s1452.pdf
 
+
+https://www.savaite.lt/docs/s501.pdf
 https://www.savaite.lt/docs/s1501.pdf
+https://www.savaite.lt/docs/s502.pdf
 https://www.savaite.lt/docs/s1502.pdf
+https://www.savaite.lt/docs/s503.pdf
 https://www.savaite.lt/docs/s1503.pdf
+https://www.savaite.lt/docs/s504.pdf
 https://www.savaite.lt/docs/s1504.pdf
+https://www.savaite.lt/docs/s505.pdf
 https://www.savaite.lt/docs/s1505.pdf
 https://www.savaite.lt/docs/s1506.pdf
 https://www.savaite.lt/docs/s1507.pdf
